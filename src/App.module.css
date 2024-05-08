@@ -1,0 +1,11 @@
+.title {
+  text-align: center;
+  font-size: 3rem;
+  margin-top: 5rem;
+}
+
+.container {
+  width: 95%;
+  max-width: 100rem;
+  margin: 0 auto;
+}
